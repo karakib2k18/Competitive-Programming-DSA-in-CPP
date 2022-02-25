@@ -2,24 +2,6 @@
 using namespace std;
 
 int main () {
-
-    //     int ans = 0;
-    //     for (int i = 1; i< n-1; ++i) {
-    //         if (a[i] > a[i - 1] && a[i] > a[i + 1]) {
-    //             if (i + 2 < n) {
-    //                 a[i + 1] = max(a[i], a[i + 2]);
-    //             } else {
-    //                 a[i + 1] = a[i];
-    //             }
-    //             ans++;
-    //         }
-    //     }
-    //     cout << ans << endl;
-    //     for (int i = 0; i < n; ++i) {
-    //         cout << a[i] << " \n"[i == n - 1];
-    //     }
-    // }
-
     int t;
     cin>>t;
     while(t--){
